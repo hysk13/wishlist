@@ -31,17 +31,19 @@ export default function Wishlist() {
         <>
             <Header />
             <div className='section'>
-                <p>{description[id]}</p>
-                <p>
-                    {checkDone(browse[id])}/{browse[id].length}
-                </p>
-                {[...browse[id]].map((item) => (
-                    <div id='catalog-item-list' key={browse[id].indexOf(item)}>
-                        <p>{browse[id].indexOf(item)+1}</p>
-                        <i className={'fa ' + ((item.done) ? ('fa-check') : ('fa-question'))} />
-                        <p>{(item.done) ? (item.name) : ("???")}</p>
-                    </div>
-                ))}
+                <>
+                    <p>{description[id]}</p>
+                    <p>
+                        {checkDone(browse[id])}/{browse[id].length}
+                    </p>
+                    {[...browse[id]].map((item) => (
+                        <div id='catalog-item-list' key={browse[id].indexOf(item)}>
+                            <p>{browse[id].indexOf(item)+1}</p>
+                            <i className={'fa ' + ((item.done) ? ('fa-check') : ('fa-question'))} />
+                            <p>{(item.done) ? (item.name) : ("???")}</p>
+                        </div>
+                    ))}
+                </>
             </div>
             <Footer />
         </>
