@@ -32,7 +32,7 @@ export default function Home() {
                 {[...catalog.catalog].map((item) => (
                     <div id='catalog-item' key={catalog.catalog.indexOf(item)}>
                         <p>{item} ({checkDone(browse[catalog.catalog.indexOf(item)])}/{browse[catalog.catalog.indexOf(item)].length})</p>
-                        <Link tabIndex={-1} to={"/wishlist/" + catalog.catalog.indexOf(item)}>
+                        <Link tabIndex={-1} to={"/" + catalog.catalog.indexOf(item)}>
                             <i className='fa fa-play'></i>
                         </Link>
                     </div>
