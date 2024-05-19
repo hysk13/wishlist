@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
+
+.section {
+    height: 64%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    overflow: hidden;
+    overflow-y: auto;
+}
+
+.section p {
+    margin: 15px;
+    font-family: "Nunito Sans", sans-serif;
+    font-size: 15px;
+    color: slategray;
+}
+
+#catalog-item-list {
+    min-width: 250px;
+    max-width: 80%;
+    min-height: 100px;
+    max-height: 100px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 10px 30px;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+
+#catalog-item-list i {
+    margin: 0px 10%;
+    font-size: 25px;
+}
+
+.fa-check {
+    color: green;
+}
+
+.fa-question {
+    color: #ffd500;
+}
+
+#catalog-item-list p {
+    font-family: "Nunito Sans", sans-serif;
+    font-size: 20px;
+}

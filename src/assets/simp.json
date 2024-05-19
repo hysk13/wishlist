@@ -1,0 +1,96 @@
+{
+    "items": [
+        {
+            "name": "Be in a same academic class",
+            "done": false
+        },
+        {
+            "name": "Work on a project or an assignment together for a class",
+            "done": false
+        },
+        {
+            "name": "Sit next to each other in class",
+            "done": false
+        },
+        {
+            "name": "Exchange contact information",
+            "done": true
+        },
+        {
+            "name": "Talk online or offline until/after midnight",
+            "done": true
+        },
+        {
+            "name": "Walk to a class together",
+            "done": true
+        },
+        {
+            "name": "Be on a private call (just the two) for longer than 10 minutes",
+            "done": true
+        },
+        {
+            "name": "Discover a common interest",
+            "done": true
+        },
+        {
+            "name": "Sit next to each other during free time",
+            "done": true
+        },
+        {
+            "name": "Eat something together outside of school",
+            "done": false
+        },
+        {
+            "name": "Talk about crushes",
+            "done": true
+        },
+        {
+            "name": "Stare into their eyes",
+            "done": true
+        },
+        {
+            "name": "Ask them out",
+            "done": true
+        },
+        {
+            "name": "Get unblocked on phone",
+            "done": false
+        },
+        {
+            "name": "Become their boyfriend",
+            "done": true
+        },
+        {
+            "name": "Exchange pickup lines",
+            "done": true
+        },
+        {
+            "name": "Go on first date",
+            "done": true
+        },
+        {
+            "name": "Be on a date for longer than 3 hours straight",
+            "done": false
+        },
+        {
+            "name": "Go to a school dance with them",
+            "done": false
+        },
+        {
+            "name": "Hold hands with them for longer than 10 minutes",
+            "done": false
+        },
+        {
+            "name": "First hug?",
+            "done": false
+        },
+        {
+            "name": "Pin them to the wall",
+            "done": false
+        },
+        {
+            "name": "First kiss?",
+            "done": false
+        }
+    ]
+}
