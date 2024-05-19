@@ -10,7 +10,7 @@ export default function Footer() {
                 <a href='https://github.com/hysk13/wishlist' target='_blank' tabIndex={-1}>
                     <i className='fa fa-code'></i>
                 </a>
-                <Link to={'/'}>
+                <Link to={'/wishlist'}>
                     <i className='fa fa-home'></i>
                 </Link>
             </div>
