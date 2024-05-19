@@ -10,7 +10,7 @@ function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route index element={<Home />} />
+        <Route path="/wishlist" element={<Home />} />
         <Route path='/wishlist/:id' element={<Wishlist />} />
         <Route path='*' element={<NoPage />} />
       </Routes>
