@@ -73,6 +73,14 @@
             "done": false
         },
         {
+            "name": "Receive a headpat",
+            "done": true
+        },
+        {
+            "name": "Give a headpat",
+            "done": false
+        },
+        {
             "name": "Go to a school dance with them",
             "done": false
         },
