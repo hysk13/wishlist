@@ -1,22 +1,6 @@
 {
     "items": [
         {
-            "name": "Be in a same academic class",
-            "done": false
-        },
-        {
-            "name": "Work on a project or an assignment together for a class",
-            "done": false
-        },
-        {
-            "name": "Sit next to each other in class",
-            "done": false
-        },
-        {
-            "name": "Exchange contact information",
-            "done": true
-        },
-        {
             "name": "Talk online or offline until/after midnight",
             "done": true
         },
@@ -37,10 +21,6 @@
             "done": true
         },
         {
-            "name": "Eat something together outside of school",
-            "done": false
-        },
-        {
             "name": "Talk about crushes",
             "done": true
         },
@@ -51,10 +31,6 @@
         {
             "name": "Ask them out",
             "done": true
-        },
-        {
-            "name": "Get unblocked on phone",
-            "done": false
         },
         {
             "name": "Become their boyfriend",
@@ -69,10 +45,6 @@
             "done": true
         },
         {
-            "name": "Be on a date for longer than 3 hours straight",
-            "done": false
-        },
-        {
             "name": "Receive a headpat",
             "done": true
         },
@@ -81,15 +53,7 @@
             "done": false
         },
         {
-            "name": "Go to a school dance with them",
-            "done": false
-        },
-        {
             "name": "Hold hands with them for longer than 10 minutes",
-            "done": false
-        },
-        {
-            "name": "First hug?",
             "done": false
         },
         {
@@ -97,7 +61,7 @@
             "done": false
         },
         {
-            "name": "First kiss?",
+            "name": "First hug?",
             "done": false
         }
     ]
