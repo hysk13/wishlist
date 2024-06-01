@@ -50,7 +50,7 @@
         },
         {
             "name": "Give a headpat",
-            "done": false
+            "done": true
         },
         {
             "name": "Hold hands with them for longer than 10 minutes",
@@ -58,7 +58,7 @@
         },
         {
             "name": "Pin them to the wall",
-            "done": false
+            "done": true
         },
         {
             "name": "First hug?",
